@@ -39,7 +39,7 @@ Design can mean a lot of different things. If you’d like to take a stab at a n
 
 ### 📖 Documentation
 
-You can help us improve the documentation of `nock`, the library, at https://github.com/nock/nock. You can also help us improve this very README or the processes we describe in this repository, to make them more clear
+You can help us improve the documentation of `nock`, the library, at https://github.com/nock/nock. You can also help us improve this very README or the processes we describe in this repository, to make them more clear.
 
 ### 📝 Editorial
 
