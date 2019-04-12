@@ -19,6 +19,7 @@ If you have a question on how to get started, please open an issue in this repos
   * [📋 Events](#%F0%9F%93%8B-events)
   * [👀 Triaging](#%F0%9F%91%80-triaging)
   * [💵 Sponsoring](#%F0%9F%92%B5-sponsoring)
+- [License](#license)
 
 <!-- tocstop -->
 
