@@ -55,3 +55,7 @@ Triaging issues and pull requests is very helpful to make sure that all informat
 ### 💵 Sponsoring
 
 You can become an individual backer or a company sponsor at https://opencollective.com/nock
+
+## License
+
+[cc0](https://creativecommons.org/share-your-work/public-domain/cc0/)
