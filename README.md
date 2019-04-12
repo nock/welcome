@@ -10,6 +10,18 @@ If you have a question on how to get started, please open an issue in this repos
 
 <!-- toc -->
 
+- [How to contribute](#how-to-contribute)
+  * [🐛 Bug reports](#%F0%9F%90%9B-bug-reports)
+  * [💻 Code](#%F0%9F%92%BB-code)
+  * [🎨 Design](#%F0%9F%8E%A8-design)
+  * [📖 Documentation](#%F0%9F%93%96-documentation)
+  * [📝 Editorial](#%F0%9F%93%9D-editorial)
+  * [📋 Events](#%F0%9F%93%8B-events)
+  * [👀 Triaging](#%F0%9F%91%80-triaging)
+  * [💵 Sponsoring](#%F0%9F%92%B5-sponsoring)
+
+<!-- tocstop -->
+
 ## How to contribute
 
 ### 🐛 Bug reports
