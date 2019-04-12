@@ -35,7 +35,7 @@ If you’d like to work on the `nock` code base, look through the open issues an
 
 ### 🎨 Design
 
-Design can mean a lot of different things. If you’d like to take a stab at a new nock logo or other branding artifacts, you can create an isuse in this repository. If you’d like to create visualizations for our documentation or slides we could share with everyone who’d like to give a talk about nock, open an issue in this repository as well.
+Design can mean a lot of different things. If you’d like to take a stab at a new nock logo or other branding artifacts, you can create an issue in this repository. If you’d like to create visualizations for our documentation or slides we could share with everyone who’d like to give a talk about nock, open an issue in this repository as well.
 
 ### 📖 Documentation
 
